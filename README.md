@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 ## Union-Find
 |  |
 | ------- |
