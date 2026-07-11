@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
