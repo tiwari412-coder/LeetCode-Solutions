@@ -19,10 +19,10 @@ public:
 
             if(mp[s[i]] < mp[s[i+1]]) total -= mp[s[i]];  // if smaller roman comes before the larger one then subtract it 
 
-            else total += mp[s[i]];   // ✅ Use the variable c
+            else total += mp[s[i]];  
         }
 
-        total += mp[s[s.length()-1]];
+        total += mp[s[s.length()-1]];    // akhri vale ko add kara
         return total;
     }
 };
