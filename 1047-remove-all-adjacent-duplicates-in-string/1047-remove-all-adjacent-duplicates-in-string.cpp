@@ -6,8 +6,8 @@ public:
 
 
         while(remove==true){
-            if(s.empty()) return s;
-            
+            if(s.empty()) return s;   // agar all the vharacters are same then it will be "" but without this while loop will run inifite times 
+
              remove = false;
         for(int i=0;i<s.length()-1;i++){
             if(s[i]==s[i+1]){
