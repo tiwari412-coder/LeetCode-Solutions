@@ -6,7 +6,7 @@ public:
 
         for(int i=0;i<nums.size(); i++){
             maxi = max(nums[i], maxi);
-            prefixGcd[i] = (gcd(nums[i], maxi));
+            prefixGcd[i] = gcd(nums[i], maxi);
         }
 
         sort(prefixGcd.begin(), prefixGcd.end());
