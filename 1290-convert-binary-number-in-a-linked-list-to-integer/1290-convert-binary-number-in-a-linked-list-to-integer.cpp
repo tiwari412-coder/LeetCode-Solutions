@@ -20,7 +20,7 @@ public:
         }
 
         int n = ans.size();
-        int result =0;
+        int result=0;
         for(int i=0; i<n; i++){
             result +=pow(2,n-i-1)*ans[i];
         }
