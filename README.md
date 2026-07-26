@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 ## Union-Find
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
