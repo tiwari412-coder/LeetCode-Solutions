@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2574-left-and-right-sum-differences](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
