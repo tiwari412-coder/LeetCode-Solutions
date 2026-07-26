@@ -1,40 +1,37 @@
 class Solution {
 public:
     int maxPerformance(int n, vector<int>& speed, vector<int>& efficiency, int k) {
+        vector<pair<int,int>> ans;
 
-        vector<pair<int, int>> engineers;
+        for(int i=0;i<n;i++){
+            ans.push_back({efficiency[i] , speed[i]});
+        } 
 
-        // Store (efficiency, speed)
-        for (int i = 0; i < n; i++) {
-            engineers.push_back({efficiency[i], speed[i]});
-        }
+        sort(ans.rbegin() , ans.rend());
 
-        // Sort in descending order of efficiency
-        sort(engineers.rbegin(), engineers.rend());
+        priority_queue<int,vector<int>,greater<int>> minheap;
 
-        // Min Heap to store speeds
-        priority_queue<int, vector<int>, greater<int>> minHeap;
+        long long speedsum = 0;
+        long long result = 0;
+        int mod = 1e9 + 7;
 
-        long long speedSum = 0;
-        long long ans = 0;
-        int MOD = 1e9 + 7;
+        for(auto eng : ans){
+            speedsum += eng.second;
+            minheap.push(eng.second);
 
-        for (auto engineer : engineers) {
-
-            // Add current engineer's speed
-            speedSum += engineer.second;
-            minHeap.push(engineer.second);
-
-            // If team size exceeds k, remove the smallest speed
-            if (minHeap.size() > k) {
-                speedSum -= minHeap.top();
-                minHeap.pop();
+            if(minheap.size() > k){
+                speedsum -= minheap.top();
+                minheap.pop();
             }
 
-            // Calculate performance
-            ans = max(ans, speedSum * engineer.first);
+            result = max(result , speedsum*eng.first);
         }
-
-        return ans % MOD;
+        return result % mod;
     }
 };
+
+
+
+
+
+
