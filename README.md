@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
