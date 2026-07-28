@@ -9,7 +9,7 @@ public:
         string result;
 
        
-        if(s.size() % 2 != 0){
+        if(s.size() % 2 != 0){    // when odd is the size of the s string
             for(int i=0; i<mid; i++){
             ans.push_back(s[i]);
             }
@@ -19,7 +19,7 @@ public:
             }
         }
 
-         else if(s.size() % 2 == 0){
+         else if(s.size() % 2 == 0){      // when even is the size of the s string
             for(int i=0; i<mid; i++){
                 ans.push_back(s[i]);
             }
@@ -29,13 +29,13 @@ public:
             }
         }
 
-        sort(ans.begin() , ans.end());
+        sort(ans.begin() , ans.end());     // left side from the mid will be sorted 
 
         if(s.size() % 2 != 0){
             ans.push_back(s[mid]);
         }
-        
-        sort(result.rbegin() , result.rend());
+
+        sort(result.rbegin() , result.rend());   // right side from the mid will be sorted
 
         string final = ans + result;
 
@@ -46,7 +46,11 @@ public:
 
 
 
-
+// Count the frequency of each character.
+// Put half of each character into the left half.
+// Sort the left half (this makes it lexicographically smallest).
+// Put the odd-frequency character (if any) in the middle.
+// Append the reverse of the left half.
 
 
 
