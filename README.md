@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0788-rotated-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 ## Recursion
 |  |
 | ------- |
