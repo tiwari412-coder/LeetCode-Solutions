@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2574-left-and-right-sum-differences](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
 |  |
