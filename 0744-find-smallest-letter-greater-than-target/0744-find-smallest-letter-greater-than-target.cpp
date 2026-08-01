@@ -8,7 +8,8 @@ public:
         while(low <= high){
             int mid = low + (high - low)/2;
 
-            if(letters[mid] <= target){
+            // the comparison is done internally by comparing ascii values
+            if(letters[mid] <= target){    
                 low = mid + 1;
             }
             else if(letters[mid] > target){
