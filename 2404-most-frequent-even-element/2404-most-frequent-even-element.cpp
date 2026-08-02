@@ -14,7 +14,7 @@ public:
          }
         }
 
-        sort(ans.begin() , ans.end());
+        sort(ans.begin() , ans.end());   // isse sirf first means values sort hoaa hai
 
         int maxi = INT_MIN;
         for(auto it : ans){
