@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2351-first-letter-to-appear-twice](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [2351-first-letter-to-appear-twice](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Union-Find
 |  |
 | ------- |
