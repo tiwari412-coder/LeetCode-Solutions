@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0096-unique-binary-search-trees](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 ## Recursion
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
