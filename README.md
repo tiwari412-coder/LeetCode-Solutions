@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0509-fibonacci-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 ## Recursion
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
