@@ -37,6 +37,11 @@ public:
 
     }
     TreeNode* sortedListToBST(ListNode* head) {
+
+        if(head == nullptr){
+            return nullptr;
+        }
+        
         ListNode* temp = head;
         vector<int> ans;
 
