@@ -11,11 +11,16 @@ public:
             value /= 10;
         }
 
+        int num;
         if(prod % t == 0){
             return n;
         }
 
-        return smallestNumber(n+1 , t);
+        else if(prod % t != 0){
+            num = smallestNumber(n+1 , t);
+        }
+
+        return num;
     }
 };
 
