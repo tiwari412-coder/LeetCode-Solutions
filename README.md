@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0814-binary-tree-pruning](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0814-binary-tree-pruning](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0814-binary-tree-pruning](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
