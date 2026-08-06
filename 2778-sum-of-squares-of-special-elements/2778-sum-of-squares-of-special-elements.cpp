@@ -1,15 +1,16 @@
 class Solution {
 public:
     int sumOfSquares(vector<int>& nums) {
+        nums.insert(nums.begin() , 0);
+        int n = nums.size()-1;
         int ans = 0;
-        int n = nums.size();
 
-        for(int i=1 ;i<=n; i++){
+        for(int i=1;i<=n;i++){
             if(n % i == 0){
-                ans += nums[i-1]*nums[i-1];
-            }
+                ans += nums[i]*nums[i];
         }
+    }
 
-        return ans;
+    return ans;
     }
 };
