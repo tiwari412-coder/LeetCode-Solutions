@@ -13,7 +13,7 @@ public:
         
     };
 
-    bool check(string &a , string &b){
+    bool check(string &a , string &b){   // pointer use kiya
         int i = 0;
         int j = a.size()-1;
 
