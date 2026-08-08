@@ -4,7 +4,7 @@ public:
         vector<int> temp = nums;
         sort(temp.begin(),temp.end());
         int n = nums.size();
-        int mid = (n+1)/2;
+        int mid = (n+1)/2;   // to handle odd size of nums use n+1
 
         int left = mid-1;
         int right = mid;
