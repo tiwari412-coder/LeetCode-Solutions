@@ -13,8 +13,8 @@ public:
 
         int total = 0;
         for(auto it : mp){
-            if(it.second > 0){
-                total += it.second;
+            if(it.second < 0){
+                total += abs(it.second);
             }
         }
         return total;
