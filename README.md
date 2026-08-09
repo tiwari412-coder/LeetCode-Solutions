@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0817-linked-list-components) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1816-truncate-sentence](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2351-first-letter-to-appear-twice](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
