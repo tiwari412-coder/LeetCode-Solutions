@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Monotonic Stack
 |  |
 | ------- |
