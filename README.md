@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1903-largest-odd-number-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-split-two-strings-to-make-palindrome](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1816-truncate-sentence](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [1383-maximum-performance-of-a-team](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1903-largest-odd-number-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
