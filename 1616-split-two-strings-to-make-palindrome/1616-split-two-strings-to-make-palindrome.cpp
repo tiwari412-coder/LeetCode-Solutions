@@ -1,19 +1,18 @@
 class Solution {
 public:
     
-    bool checkpalidrome(string &s , int i, int j){
+    bool checkpalidrome(string ch, int i , int j){
         while(i < j){
-            if(s[i] != s[j]){
+            if(ch[i] != ch[j]){
                 return false;
             }
             i++;
             j--;
         }
         return true;
-        
-    };
+    }
 
-    bool check(string &a , string &b){   // pointer use kiya
+    bool check(string &a , string &b){
         int i = 0;
         int j = a.size()-1;
 
@@ -22,11 +21,10 @@ public:
             j--;
         }
 
-        return checkpalidrome(a , i ,j) || checkpalidrome(b , i, j);
-    };
-    
+        return checkpalidrome(a, i ,j) || checkpalidrome(b ,i, j);
+    }
+
     bool checkPalindromeFormation(string a, string b) {
-       
-        return check(a ,b) || check(b, a);
+        return check(a,b) || check(b ,a);
     }
 };
