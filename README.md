@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [2439-minimize-maximum-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2439-minimize-maximum-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2439-minimize-maximum-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2439-minimize-maximum-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2439-minimize-maximum-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
 |  |
