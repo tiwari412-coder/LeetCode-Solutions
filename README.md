@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3523-make-array-non-decreasing](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3523-make-array-non-decreasing) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [3523-make-array-non-decreasing](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3523-make-array-non-decreasing) |
 ## Design
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [3523-make-array-non-decreasing](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3523-make-array-non-decreasing) |
 ## Greedy
 |  |
 | ------- |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3523-make-array-non-decreasing](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3523-make-array-non-decreasing) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Prefix Sum
 |  |
