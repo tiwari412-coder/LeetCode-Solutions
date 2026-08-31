@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3024-type-of-triangle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3024-type-of-triangle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -695,4 +698,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [3024-type-of-triangle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
