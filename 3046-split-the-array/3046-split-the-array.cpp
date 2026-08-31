@@ -5,10 +5,7 @@ public:
         
         for(int x : nums){
             mp[x]++;
-        }
-
-        for(auto it : mp){
-            if(it.second > 2) return false;
+            if(mp[x] > 2) return false;
         }
         return true;
     }
