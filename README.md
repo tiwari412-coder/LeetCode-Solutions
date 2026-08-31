@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2733-neither-minimum-nor-maximum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
