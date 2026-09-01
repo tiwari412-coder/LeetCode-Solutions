@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0402-remove-k-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0976-largest-perimeter-triangle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1383-maximum-performance-of-a-team](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
