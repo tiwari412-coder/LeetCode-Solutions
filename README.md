@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0817-linked-list-components) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0692-top-k-frequent-words](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
