@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1572-matrix-diagonal-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1816-truncate-sentence](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
