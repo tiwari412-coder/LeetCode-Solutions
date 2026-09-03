@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3978-unique-middle-element](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
 |  |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3046-split-the-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3978-unique-middle-element](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 ## Stack
 |  |
 | ------- |
