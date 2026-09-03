@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3978-unique-middle-element](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3523-make-array-non-decreasing](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3523-make-array-non-decreasing) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Prefix Sum
 |  |
 | ------- |
