@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
