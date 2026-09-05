@@ -9,44 +9,51 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
- #include<bits/stdc++.h>
- using namespace std;
-
 class Solution {
 public:
+    vector<vector<int>> levelOrder(TreeNode* root) {
 
-    void levelorder(TreeNode*root,vector<vector<int>> &ans){
-        if(root==NULL){
-            return;
-        }
-        queue<TreeNode*>q;
+        if(root == nullptr) return {};
+        vector<vector<int>> ans;
+
+        queue<TreeNode*> q;
         q.push(root);
 
         while(!q.empty()){
-            int size=q.size();
-            vector<int>level;
+            int n = q.size();
+            vector<int> result;
 
-            for(int i=0;i<size;i++){
-                TreeNode*curr=q.front();
+            for(int i=0; i<n; i++){
+                TreeNode* curr = q.front();
                 q.pop();
+                
+                result.push_back(curr->val);
 
-                level.push_back(curr->val);
-
-                if(curr->left!=nullptr){
-                   q.push(curr->left);
-               }
-                if(curr->right!=nullptr){
-                   q.push(curr->right);
+                if(curr->left != nullptr){
+                    q.push(curr->left);
+                }
+                if(curr->right != nullptr) q.push(curr->right);
             }
-       }
-       ans.push_back(level);   
-    }
-} 
-    vector<vector<int>> levelOrder(TreeNode* root) {
 
-        vector<vector<int>> ans;
-        levelorder(root,ans);
-        return ans;         
+            ans.push_back(result);
+        }
+
+        return ans;
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
