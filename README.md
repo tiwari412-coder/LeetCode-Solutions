@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
+| [2679-sum-in-a-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2733-neither-minimum-nor-maximum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2679-sum-in-a-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2733-neither-minimum-nor-maximum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1383-maximum-performance-of-a-team](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2810-faulty-keyboard](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -751,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2679-sum-in-a-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
