@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0434-number-of-segments-in-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
