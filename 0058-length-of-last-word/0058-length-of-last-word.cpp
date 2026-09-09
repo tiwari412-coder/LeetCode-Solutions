@@ -6,16 +6,11 @@ public:
         int count = 0;
 
         for(int i=n ; i>=0; i--){
-
-             // skip the space at the end
             if(s[i] == ' '  && count == 0) continue;  
-             // skip the space at the end
 
-            if(s[i] == ' ') break;   // count will increase if no space found from counting from the end and if found at that break the loop
-
+            if(s[i] == ' ') break;   
             else count ++;   
         }
-
         return count;
     }
 };
