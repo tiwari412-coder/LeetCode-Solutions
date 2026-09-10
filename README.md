@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -830,4 +831,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
