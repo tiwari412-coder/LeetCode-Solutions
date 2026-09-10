@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
 |  |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Simulation
 |  |
