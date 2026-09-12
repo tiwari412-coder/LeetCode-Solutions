@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [0788-rotated-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0976-largest-perimeter-triangle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [1025-divisor-game](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [2439-minimize-maximum-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Recursion
 |  |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -841,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -849,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Bracket Sequences
 |  |
 | ------- |
