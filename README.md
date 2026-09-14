@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [0788-rotated-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
