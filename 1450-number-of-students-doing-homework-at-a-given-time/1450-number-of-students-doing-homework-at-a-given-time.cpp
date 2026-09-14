@@ -11,6 +11,7 @@ public:
         for(auto it : ans){
             if(it.first <= queryTime && it.second >= queryTime) count++;
         }
+        ans.clear();
         return count;
     }
 };
