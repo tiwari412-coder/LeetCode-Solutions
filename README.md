@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1507-reformat-date](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1507-reformat-date) |
 | [1556-thousand-separator](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1556-thousand-separator) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1816-truncate-sentence](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
