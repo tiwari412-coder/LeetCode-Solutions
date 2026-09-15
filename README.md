@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [0788-rotated-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0896-monotonic-array) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0817-linked-list-components) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1370-increasing-decreasing-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1492-the-kth-factor-of-n](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -908,4 +913,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
