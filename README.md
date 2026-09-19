@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0686-repeated-string-match](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [1408-string-matching-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## Number Theory
 |  |
@@ -953,4 +955,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
