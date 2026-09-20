@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
 | [3163-string-compression-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3163-string-compression-iii) |
+| [3407-substring-matching-pattern](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3407-substring-matching-pattern) |
 | [3498-reverse-degree-of-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [1408-string-matching-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
+| [3407-substring-matching-pattern](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3407-substring-matching-pattern) |
 ## Number Theory
 |  |
 | ------- |
