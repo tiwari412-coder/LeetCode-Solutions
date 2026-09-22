@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
