@@ -2,7 +2,6 @@ class Solution {
 public:
     int minSwaps(vector<int>& nums) {
      vector<pair<int,int>>ans;
-     vector<int>arr;
 
      for(int i=0; i<nums.size(); i++){
             int sum = 0;
@@ -13,7 +12,6 @@ public:
                 temp /= 10;
             }
             ans.push_back({nums[i] , sum});
-            arr.push_back(nums[i]);
         }
      
 
