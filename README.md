@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3046-split-the-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3978-unique-middle-element](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 ## Stack
 |  |
