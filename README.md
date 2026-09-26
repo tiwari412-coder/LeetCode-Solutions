@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-reformat-date](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1507-reformat-date) |
 | [1556-thousand-separator](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1556-thousand-separator) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
