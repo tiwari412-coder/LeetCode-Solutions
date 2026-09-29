@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3046-split-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
