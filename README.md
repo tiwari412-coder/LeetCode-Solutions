@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
