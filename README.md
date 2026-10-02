@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3046-split-the-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3046-split-the-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3163-string-compression-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3163-string-compression-iii) |
 | [3407-substring-matching-pattern](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3407-substring-matching-pattern) |
