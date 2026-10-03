@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3295-report-spam-message](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3295-report-spam-message) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3523-make-array-non-decreasing](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3523-make-array-non-decreasing) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3295-report-spam-message](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3295-report-spam-message) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3163-string-compression-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3163-string-compression-iii) |
+| [3295-report-spam-message](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3295-report-spam-message) |
 | [3407-substring-matching-pattern](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3407-substring-matching-pattern) |
 | [3498-reverse-degree-of-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
