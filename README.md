@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3163-string-compression-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3163-string-compression-iii) |
+| [3271-hash-divided-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3295-report-spam-message](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3295-report-spam-message) |
 | [3407-substring-matching-pattern](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3407-substring-matching-pattern) |
 | [3498-reverse-degree-of-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2810-faulty-keyboard](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3271-hash-divided-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3813-vowel-consonant-score](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
