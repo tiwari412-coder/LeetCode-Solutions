@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3798-largest-even-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Heap (Priority Queue)
