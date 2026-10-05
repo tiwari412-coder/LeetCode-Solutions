@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1539-kth-missing-positive-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1539-kth-missing-positive-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2439-minimize-maximum-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
