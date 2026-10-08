@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2109-adding-spaces-to-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2109-adding-spaces-to-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2109-adding-spaces-to-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [2109-adding-spaces-to-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
