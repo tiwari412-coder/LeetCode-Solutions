@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2278-percentage-of-letter-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
