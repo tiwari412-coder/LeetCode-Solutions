@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
