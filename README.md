@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2367-number-of-arithmetic-triplets](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2351-first-letter-to-appear-twice](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2367-number-of-arithmetic-triplets](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
@@ -1028,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2367-number-of-arithmetic-triplets](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
