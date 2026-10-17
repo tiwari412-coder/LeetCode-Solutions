@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2465-number-of-distinct-averages](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
