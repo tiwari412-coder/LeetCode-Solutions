@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2465-number-of-distinct-averages](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2465-number-of-distinct-averages](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2465-number-of-distinct-averages](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2465-number-of-distinct-averages](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2679-sum-in-a-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
