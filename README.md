@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1925-count-square-sum-triples](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -1046,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
