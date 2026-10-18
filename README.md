@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2446-determine-if-two-events-have-conflict](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2465-number-of-distinct-averages](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2679-sum-in-a-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
