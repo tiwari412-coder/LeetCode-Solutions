@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+| [3945-digit-frequency-score](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
 |  |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3945-digit-frequency-score](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
