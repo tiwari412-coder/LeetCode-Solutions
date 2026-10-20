@@ -1,23 +1,17 @@
 class Solution {
 public:
     bool consecutiveSetBits(int n) {
-        string ans = "";
+        int count = 0;
 
         while(n > 0){
-            int rem = n % 2;
-            ans += to_string(rem);
-            n /= 2;
-        }
+            if((n & 3) == 3){
+                count++;
+                }
+                n >>= 1;  // right shift one bit one by one
 
-        reverse(ans.begin(), ans.end());
-
-        int count = 0;
-        
-        for(int i=0; i+1<ans.size(); i++){
-            if(ans[i] == '1' && ans[i+1] == '1') count++;
-        }
+                if(count > 1) return false;
+            }
 
         return count == 1;
-
     }
 };
