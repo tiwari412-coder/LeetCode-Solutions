@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
