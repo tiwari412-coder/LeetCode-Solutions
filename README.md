@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -1208,4 +1210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
