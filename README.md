@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2595-number-of-even-and-odd-bits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Union-Find
 |  |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3271-hash-divided-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3813-vowel-consonant-score](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
