@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2595-number-of-even-and-odd-bits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2595-number-of-even-and-odd-bits) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Union-Find
