@@ -37,6 +37,7 @@ public:
 
         int total = 0;
         for(int x : ans.back()) total += x;
+        ans.clear();
 
         return total == num;
     }
