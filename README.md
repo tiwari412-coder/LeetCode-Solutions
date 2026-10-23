@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3663-find-the-least-frequent-digit](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2595-number-of-even-and-odd-bits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
