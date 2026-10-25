@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1507-reformat-date](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1507-reformat-date) |
 | [1556-thousand-separator](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1556-thousand-separator) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1078,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Combinatorics
 |  |
