@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2679-sum-in-a-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2679-sum-in-a-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2810-faulty-keyboard](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
