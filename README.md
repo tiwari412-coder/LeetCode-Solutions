@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2951-find-the-peaks](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1101,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
+| [2951-find-the-peaks](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
