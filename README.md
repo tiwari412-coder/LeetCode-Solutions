@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1370-increasing-decreasing-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -758,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
