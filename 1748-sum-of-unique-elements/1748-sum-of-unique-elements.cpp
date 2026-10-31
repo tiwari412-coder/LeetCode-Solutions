@@ -6,7 +6,7 @@ public:
 
         int sum = 0;
         for(auto it : mp){
-            if(it.second == 1) sum += (int)it.first;
+            if(it.second == 1) sum += it.first;
         }
 
         return sum;
