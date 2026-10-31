@@ -1,6 +1,8 @@
 class Solution {
 public:
     int maxAbsoluteSum(vector<int>& nums) {
+
+        // based on kadanes algorithm
         int maxi = 0;
         int mini = 0;
         int sum = 0;
@@ -11,7 +13,7 @@ public:
             if(sum < 0){
                 sum = 0;
             }
-            
+
             if(sub > 0){
                 sub = 0;
             }
