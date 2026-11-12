@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2256-minimum-average-difference](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2256-minimum-average-difference) |
+| [2270-number-of-ways-to-split-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2256-minimum-average-difference](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2256-minimum-average-difference) |
+| [2270-number-of-ways-to-split-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2439-minimize-maximum-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
