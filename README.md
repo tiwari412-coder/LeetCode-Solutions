@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2544-alternating-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2579-count-total-number-of-colored-cells](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2579-count-total-number-of-colored-cells) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2843-count-symmetric-integers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
