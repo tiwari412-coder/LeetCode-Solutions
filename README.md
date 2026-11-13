@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2109-adding-spaces-to-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
