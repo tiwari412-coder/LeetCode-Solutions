@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2396-strictly-palindromic-number](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2439-minimize-maximum-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
