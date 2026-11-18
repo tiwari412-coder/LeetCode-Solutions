@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1383-maximum-performance-of-a-team](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
