@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0832-flipping-an-image](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
