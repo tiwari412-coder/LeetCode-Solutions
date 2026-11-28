@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3295-report-spam-message](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3295-report-spam-message) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3523-make-array-non-decreasing](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3523-make-array-non-decreasing) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tiwari412-coder/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
